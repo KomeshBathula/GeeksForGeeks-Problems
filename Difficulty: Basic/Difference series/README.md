@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/difference-series4345/1">Difference series</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a series of numbers&nbsp;&nbsp;3,10,21,36&nbsp;….,&nbsp;and series starting from N&nbsp;= 1, find the pattern and output the N'th&nbsp;value of the above series.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/difference-series4345/1?page=1&category=series&sortBy=submissions">Difference series</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a series of numbers&nbsp;&nbsp;3,10,21,36&nbsp;….,&nbsp;and series starting from N&nbsp;= 1, find the pattern and output the N'th&nbsp;value of the above series.</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
 
